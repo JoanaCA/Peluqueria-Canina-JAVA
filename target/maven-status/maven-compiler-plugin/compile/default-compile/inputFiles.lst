@@ -1,0 +1,13 @@
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/exceptions/NonexistentEntityException.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/exceptions/IllegalOrphanException.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/PeluqueriaCanina.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/logica/Mascota.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/DuenioJpaController.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/logica/Controladora.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/igu/Principal.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/igu/VerDatos.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/exceptions/PreexistingEntityException.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/ControladoraPersistencia.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/MascotaJpaController.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/igu/CargaDatos.java
+/Users/joanacarabajal/Desktop/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/logica/Duenio.java
